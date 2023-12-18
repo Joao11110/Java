@@ -6,9 +6,9 @@ public class Q11 {
         Scanner sc = new Scanner(System.in);
         float x, y;
 
-        System.out.print("\nDigite um número (x): ");
+        System.out.print("\nDigite o (x): ");
         x = sc.nextFloat();
-        System.out.print("\nDigite um número (y): ");
+        System.out.print("\nDigite o (y): ");
         y = sc.nextFloat();
         System.out.println();
 
