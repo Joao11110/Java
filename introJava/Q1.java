@@ -8,7 +8,7 @@ public class Q1 {
         System.out.print("\nDigite o tamanho do lado do quadrado: ");
         lado = entrada.nextFloat();
         lado = lado*lado;
-        System.out.println("O area do quadrado igual a: " + lado);
+        System.out.println("A área do quadrado igual a: " + lado);
         entrada.close();
     }
 }
